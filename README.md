@@ -1,6 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
 
 
 # 💻 Tech Stack:
