@@ -1,6 +1,12 @@
 <h1 align="left">¡Hola! Soy Bautista Armani</h1>
 
+<div align="left">
+  <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
+</div>
+
 <p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
+
+<img align="left" height="200" src="https://ideogram.ai/assets/image/lossless/response/j_8KqqGLR7iu2RugnzlI_w" alt="Profile Image" style="margin-right: 20px;"/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
@@ -67,9 +73,3 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bautiarmanicode&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="left">
-  <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
-</div>
