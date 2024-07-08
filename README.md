@@ -8,10 +8,9 @@
 
 ![Ideogram Image](https://i.imgur.com/bPOpUhA.png)
 
-
 <h2 align="left">About me</h2>
 
-<p align="left">🎓 Educación: <br>
+<p align="left">🎓 Educación:<br>
 - #SeProgramar en Argentina Programa<br>
 - Bootcamp en Data Science en Soy Henry<br>
 <br>
@@ -21,18 +20,16 @@
 - Soft Skills: Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Pensamiento analítico<br>
 <br>
 🌱 Actualmente aprendiendo:<br>
-- Machine Learning avanzado y desarrollo de pipelines de datos en la nube.<br>
+- Machine Learning avanzado y desarrollo de pipelines de datos en la nube<br>
 - Big Data y Data Analytics<br>
 <br>
 💼 Buscando oportunidades:<br>
 Estoy interesado en roles como analista de datos, ingeniero de datos o científico de datos.</p>
+
 <br>
-C o n t a c t a m e: 
-Mail: [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)
-Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
-
-
-
+<p align="left">C o n t a c t a m e:<br>
+Mail: [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)<br>
+Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)</p>
 
 ## 💻 Tech Stack:
 
@@ -103,7 +100,6 @@ Aquí tienes algunos de mis proyectos destacados:
   - **🚀 Despliegue:** Render para el despliegue automático desde GitHub.
 
 - **🔗 Repositorio:** [Steam Games Machine Learning](https://github.com/bautiarmanicode/STEAM_GAMES_MLOPS)
-  
 
 ## 📊 GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
