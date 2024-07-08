@@ -8,6 +8,8 @@
 
 <p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
 
+![Ideogram](https://ideogram.ai/assets/image/lossless/response/j_8KqqGLR7iu2RugnzlI_w)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
@@ -73,5 +75,3 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bautiarmanicode&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
