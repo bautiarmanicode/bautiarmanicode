@@ -27,9 +27,15 @@
 Estoy interesado en roles como analista de datos, ingeniero de datos o científico de datos.</p>
 
 <br>
-<p align="left">Contactame:<br>
-  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)<br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)</p>
+<p align="left">Contactame:</p>
+<p align="left">
+  <a href="mailto:bautiarmani@gmail.com?subject=Asunto">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ar.linkedin.com/in/bautiarmani">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 
