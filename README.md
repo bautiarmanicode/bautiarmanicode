@@ -81,7 +81,7 @@ Aquí tienes algunos de mis proyectos destacados:
   - **🐍 Lenguajes de Programación:** Python.
   - **🛠 Herramientas de Análisis:** Pandas, NumPy.
 
-- **🔗 Repositorio:** [Siniestros Viales CABA]([https://github.com/usuario/proyecto1](https://github.com/bautiarmanicode/SiniestrosViales-BSAS))
+- **🔗 Repositorio:** [Siniestros Viales CABA](https://github.com/bautiarmanicode/SiniestrosViales-BSAS)
 
 ### Proyecto 2: Steam Games Machine Learning Operations + FastAPI
 **Steam Games Machine Learning Operations + FastAPI**
@@ -102,7 +102,7 @@ Aquí tienes algunos de mis proyectos destacados:
   - **🛠 Herramientas de Análisis:** Pandas, NumPy.
   - **🚀 Despliegue:** Render para el despliegue automático desde GitHub.
 
-- **🔗 Repositorio:** [Steam Games Machine Learning]([https://github.com/usuario/proyecto2](https://github.com/bautiarmanicode/STEAM_GAMES_MLOPS))
+- **🔗 Repositorio:** [Steam Games Machine Learning](https://github.com/bautiarmanicode/STEAM_GAMES_MLOPS)
   
 
 ## 📊 GitHub Stats:
