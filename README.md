@@ -4,11 +4,9 @@
   <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
 </div>
 
-<img align="right" height="200" src="/mnt/data/image.png" alt="Profile Image" style="margin-left: 20px;"/>
+<img align="right" height="200" src="https://ideogram.ai/assets/image/lossless/response/j_8KqqGLR7iu2RugnzlI_w" alt="Profile Image" style="margin-left: 20px;"/>
 
 <p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
-
-![Ideogram](https://ideogram.ai/assets/image/lossless/response/j_8KqqGLR7iu2RugnzlI_w)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
@@ -66,9 +64,7 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 ![Slack](https://img.shields.io/badge/Slack-%4A154B.svg?style=plastic&logo=slack&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bautiarmanicode&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bautiarmanicode&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bautiarmanicode&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[!Bautos github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
