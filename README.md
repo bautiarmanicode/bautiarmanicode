@@ -6,7 +6,7 @@
 
 <p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
 
-![Ideogram Image](https://i.imgur.com/xxxxxxx.png)
+![Ideogram Image](https://i.imgur.com/7sQbQJv.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
