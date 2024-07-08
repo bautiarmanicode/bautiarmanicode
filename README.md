@@ -29,9 +29,7 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 <br>
 <p align="left">Contactame:</p>
 <p align="left">
-  <a href="mailto:bautiarmani@gmail.com?subject=Asunto">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
-  </a>
+  Email: bautiarmani@gmail.com<br>
   <a href="https://ar.linkedin.com/in/bautiarmani">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
