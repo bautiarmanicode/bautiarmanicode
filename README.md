@@ -26,12 +26,12 @@
 <br>
 💼 Buscando oportunidades:<br>
 Estoy interesado en roles como analista de datos, ingeniero de datos o científico de datos.</p>
+<br>
+C o n t a c t a m e: 
+Mail: [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)
+Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)
+
 
 
 ## 💻 Tech Stack:
@@ -109,6 +109,8 @@ Aquí tienes algunos de mis proyectos destacados:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![LeetCard](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
