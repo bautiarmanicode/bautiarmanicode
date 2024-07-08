@@ -1,6 +1,6 @@
 <h1 align="left">Hello! I'm Bautista Armani</h1>
 
-<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" width="500" height="auto">
+<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" width="400" height="auto">
 
 
 <div align="left">
