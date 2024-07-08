@@ -28,7 +28,20 @@
 - Big Data and Data Analytics at Codo a Codo Bs As<br>
 <br>
 💼 Seeking opportunities:<br>
-I am interested in junior roles as a data analyst, data engineer, or data scientist.</p>
+
+I am a passionate and dedicated junior professional seeking roles as a data analyst, data engineer, or data scientist. With hands-on experience in ETL processes, data analysis, and machine learning operations, I am eager to apply my skills to solve real-world problems and drive data-driven solutions.
+
+💼 What I Offer:
+
+- Technical Skills: Proficient in Python, SQL, and data visualization tools (Power BI, Matplotlib, Seaborn). Experienced in implementing ETL pipelines and conducting exploratory data analysis (EDA).
+- Machine Learning: Skilled in developing and deploying machine learning models, including sentiment analysis and recommendation systems using tools like Scikit-learn and FastAPI.
+- Cloud Services: Hands-on experience with Google Cloud Services and deploying solutions using Google Cloud Functions and BigQuery.
+- Collaboration: Strong team player with excellent communication skills, ready to collaborate in dynamic and cross-functional teams.
+
+💼 My Contributions:
+
+- Data Analysis Projects: Successfully analyzed traffic accident data in Buenos Aires, providing actionable insights to improve road safety.
+- Recommendation Systems: Developed a recommendation system for Steam users, enhancing user experience by suggesting games based on preferences and reviews..</p>
 
 <br>
 <p align="left">Contact me:</p>
