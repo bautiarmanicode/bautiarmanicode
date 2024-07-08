@@ -6,7 +6,7 @@
 
 <p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
 
-![Ideogram Image]([https://ideogram.ai/assets/image/lossless/response/j_8KqqGLR7iu2RugnzlI_w](https://imgur.com/a/ghAOXA6))
+![Ideogram Image](https://imgur.com/a/ghAOXA6)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
@@ -65,6 +65,8 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 
 ## 📊 GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![LeetCard](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
