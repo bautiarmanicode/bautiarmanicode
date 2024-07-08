@@ -15,9 +15,9 @@
 - Bootcamp en Data Science en Soy Henry<br>
 <br>
 🌟 Competencias:<br>
-- **Lenguajes**: Python, SQL, Java<br>
-- **Herramientas**: Power BI, Google Cloud Platform, Git, GitHub<br>
-- **Soft Skills**: Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Pensamiento analítico<br>
+- Lenguajes: Python, SQL, Java<br>
+- Herramientas: Power BI, Google Cloud Platform, Git, GitHub<br>
+- Soft Skills: Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Pensamiento analítico<br>
 <br>
 🌱 Actualmente aprendiendo:<br>
 - Machine Learning avanzado y desarrollo de pipelines de datos en la nube.<br>
@@ -68,9 +68,8 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bautiarmanicode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 
-[![](https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=6&color=3)](https://visitcount.itsvg.in)
+<div align="left">
+  <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
+</div>
