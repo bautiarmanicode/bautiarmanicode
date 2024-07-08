@@ -1,12 +1,13 @@
 <h1 align="left">Hello! I'm Bautista Armani</h1>
 
+<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" width="500" height="auto">
+
+
 <div align="left">
   <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
 </div>
 
 <p align="left">I am an enthusiastic and dedicated junior Data Scientist with experience in data analysis, data engineering, and machine learning. I recently completed my Data Science bootcamp at Soy Henry, where I developed practical skills through challenging projects.</p>
-
-<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" width="300" height="auto">
 
 
 
