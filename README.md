@@ -109,7 +109,13 @@ Here are some of my featured projects:
 - **🔗 Repository:** [Steam Games Machine Learning](https://github.com/bautiarmanicode/STEAM_GAMES_MLOPS)
 
 ## 📊 GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 100%; height: auto;">
+</a>
+<a href="https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity">
+    <img src="https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity" alt="LeetCard" style="max-width: 100%; height: auto;">
+</a>
+
 
 [![LeetCard](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)](https://leetcard.jacoblin.cool/bautiarmani?theme=dark&font=Baumans&ext=activity)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
