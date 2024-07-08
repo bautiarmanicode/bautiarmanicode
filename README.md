@@ -11,7 +11,7 @@
 <h2 align="left">About me</h2>
 
 <p align="left">🎓 Educación:<br>
-- Introduccion a la programacion - Egg Live 
+- Introduccion a la programacion - Egg Live <br>
 - #SeProgramar en Argentina Programa<br>
 - Bootcamp en Data Science en Soy Henry<br>
 <br>
