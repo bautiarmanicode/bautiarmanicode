@@ -20,11 +20,11 @@
 - Soft Skills: Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Pensamiento analítico<br>
 <br>
 🌱 Actualmente aprendiendo:<br>
-- Machine Learning avanzado y desarrollo de pipelines de datos en la nube<br>
-- Big Data y Data Analytics<br>
+- Desarrollo de pipelines de datos en la nube<br>
+- Big Data y Data Analytics Codo a Codo Bs As<br>
 <br>
 💼 Buscando oportunidades:<br>
-Estoy interesado en roles como analista de datos, ingeniero de datos o científico de datos.</p>
+Estoy interesado en roles junior como analista de datos, ingeniero de datos o científico de datos.</p>
 
 <br>
 <p align="left">Contactame:</p>
