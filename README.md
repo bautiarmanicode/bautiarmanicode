@@ -4,7 +4,7 @@
   <img src="https://visitcount.itsvg.in/api?id=bautiarmanicode&icon=0&color=0" alt="Profile Views" />
 </div>
 
-<p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
+<p align="left">Soy un entusiasta y dedicado Data Scientist junior con experiencia en análisis de datos, ingeniería de datos y aprendizaje automático. Recientemente completé mi bootcamp de Data Science en Soy Henry, donde desarrollé habilidades prácticas en proyectos desafiantes.</p>
 
 ![Ideogram Image](https://i.imgur.com/bPOpUhA.png)
 
