@@ -113,8 +113,5 @@ Here are some of my featured projects:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true" alt="GitHub Activity Graph" style="max-width: 50%; height: auto;">
 </a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
