@@ -6,7 +6,7 @@
 
 <p align="left">I am an enthusiastic and dedicated junior Data Scientist with experience in data analysis, data engineering, and machine learning. I recently completed my Data Science bootcamp at Soy Henry, where I developed practical skills through challenging projects.</p>
 
-<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" style="max-width: 50%; height: auto;">
+<img src="https://i.imgur.com/bPOpUhA.png" alt="Ideogram Image" style="max-width: 30%; height: auto;">
 
 
 <h2 align="left">About me</h2>
