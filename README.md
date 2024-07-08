@@ -64,6 +64,50 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-%4A154B.svg?style=plastic&logo=slack&logoColor=white)
 
+## Repositorios Destacados
+
+Aquí tienes algunos de mis proyectos destacados:
+
+### Proyecto 1: Siniestros Viales
+
+**Proyecto individual N2 - Siniestros Viales**
+- **Seguridad Vial Armani - SVA**
+- **Descripción:** 
+  Análisis exhaustivo de datos relacionados con homicidios en accidentes viales en Buenos Aires durante 2016-2021. El objetivo es generar información útil para que las autoridades locales implementen medidas que reduzcan las víctimas mortales en accidentes de tránsito.
+
+- **Metodología y Herramientas:**
+  - **ETL:** Recopilación, limpieza y carga de datos desde archivos XLSX proporcionados por la Secretaría de Transporte de Buenos Aires.
+  - **Análisis Exploratorio de Datos (EDA):** Identificación de patrones y tendencias.
+  - **Visualización:** Matplotlib, Seaborn, Power BI.
+  - **Lenguajes de Programación:** Python.
+  - **Herramientas de Análisis:** Pandas, NumPy.
+
+- **Repositorio:** [Siniestros Viales CABA]([https://github.com/usuario/proyecto1](https://github.com/bautiarmanicode/SiniestrosViales-BSAS))
+
+
+### Proyecto 2: Steam Games Machine Learning Operations + FastAPI
+
+**Steam Games Machine Learning Operations + FastAPI**
+- **Descripción:**
+  Desarrollo de un sistema de recomendación de videojuegos para usuarios de Steam, utilizando ETL para limpieza y preparación de datos, y una API desarrollada con FastAPI para proporcionar acceso a los resultados.
+
+- **Objetivos:**
+  - **Data Engineer:** Realizar ETL y feature engineering para preparar los datos.
+  - **API:** Proporcionar acceso a resultados mediante endpoints desarrollados con FastAPI.
+  - **Machine Learning Operations:** Implementar un sistema de recomendación de videojuegos basado en relaciones user-item, utilizando SVD (Descomposición en Valores Singulares).
+
+- **Metodología y Herramientas:**
+  - **ETL:** Extracción, transformación y carga de datos desde archivos JSON.
+  - **Feature Engineering:** Análisis de sentimiento en reseñas de usuarios.
+  - **API:** Desarrollada con FastAPI, con endpoints para acceder a la información.
+  - **Machine Learning:** Modelo de recomendación basado en SVD.
+  - **Lenguajes de Programación:** Python.
+  - **Herramientas de Análisis:** Pandas, NumPy.
+  - **Despliegue:** Render para el despliegue automático desde GitHub.
+
+- **Repositorio:** [Steam Games Machine Learning]([https://github.com/usuario/proyecto2](https://github.com/bautiarmanicode/STEAM_GAMES_MLOPS))
+  
+
 ## 📊 GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bautiarmanicode&bg_color=000000&color=ffffff&line=3145a5&point=e65405&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -71,6 +115,3 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bautiarmanicode&limit=5&theme=dark&combine_all_yearly_contributions=true)
