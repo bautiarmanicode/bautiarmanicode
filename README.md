@@ -8,11 +8,6 @@
 
 ![Ideogram Image](https://i.imgur.com/bPOpUhA.png)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)
 
 <h2 align="left">About me</h2>
 
@@ -31,6 +26,13 @@
 <br>
 💼 Buscando oportunidades:<br>
 Estoy interesado en roles como analista de datos, ingeniero de datos o científico de datos.</p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/bautiarmani)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2365FF5A.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/bautiarmani)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/bautiarmani/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:bautiarmani@gmail.com?subject=Asunto)
+
 
 ## 💻 Tech Stack:
 
