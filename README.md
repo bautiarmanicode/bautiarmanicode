@@ -21,7 +21,7 @@
 - Bootcamp en Data Science en Soy Henry<br>
 <br>
 🌟 Competencias:<br>
-- Lenguajes: Python, SQL, Java<br>
+- Lenguajes: Python, SQL<br>
 - Herramientas: Power BI, Google Cloud Platform, Git, GitHub<br>
 - Soft Skills: Trabajo en equipo, Resolución de problemas, Comunicación efectiva, Pensamiento analítico<br>
 <br>
@@ -36,7 +36,6 @@ Estoy interesado en roles como analista de datos, ingeniero de datos o científi
 
 ### Lenguajes de Programación:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 
 ### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
